@@ -1,5 +1,7 @@
 class CheckMyAge {
   public static void main(String[] args) {
-    System.out.println(");
+    int myAge = 15
+    int myBirthday = 0527
+    int todaysDate = 0922
   }
 }
